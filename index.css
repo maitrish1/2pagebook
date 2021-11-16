@@ -11,7 +11,7 @@
     font-size: 60px;
     display: inline;
   }
-  .box h1:hover{
+   h1:hover{
       color:rgb(230, 198, 157);
   }
   .box p::first-letter{
