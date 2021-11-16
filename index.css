@@ -10,3 +10,7 @@
     font-family: 'Hurricane', cursive;
     font-size: 60px;
   }
+  p::first-letter{
+      font-size: 300%;
+      color: burlywood;
+  }
