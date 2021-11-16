@@ -10,11 +10,14 @@
     font-family: 'Hurricane', cursive;
     font-size: 60px;
   }
-  p::first-letter{
+  .box h1:hover{
+      color:rgb(230, 198, 157);
+  }
+  .box p::first-letter{
       font-size: 300%;
       color: burlywood;
   }
   .box p{
-    font-family: 'Great Vibes', cursive;
+      font-family: 'Great Vibes', cursive;
       font-size: 20px;
   }
