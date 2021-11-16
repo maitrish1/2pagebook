@@ -6,9 +6,9 @@
     width: 500px;
     height: 750px;
   }
-  /* .box h1:hover{
+  .box h1:hover{
     color:rgb(230, 198, 157);
-} */
+}
   .box h1{
     font-family: 'Hurricane', cursive;
     font-size: 60px;
