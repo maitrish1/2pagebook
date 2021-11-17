@@ -25,6 +25,12 @@
       font-size: 30px;
   }
 
+  /* .para-bg::after{
+      content: "";
+      background: url(/waves500x493.jpg);
+      opacity: 0.3;
+  } */
+
   .next-page a{
       float: right;
       font-family: 'Great Vibes', cursive;
@@ -35,3 +41,4 @@
   .next-page a:hover{
       color: rgb(92, 0, 15);
   }
+  
